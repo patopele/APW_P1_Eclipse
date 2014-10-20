@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PERIODICO PUBLIC "PeriodicoABC" "periodico.dtd">
+<PERIODICO FECHA="11/10/2014" HORA="14:15">
+	<Banner>Banner</Banner>
+	<Foto>Foto</Foto>
+	<GIF>GIF</GIF>
+	<ARTICULO AUTOR="Pablo Pellegrini" TIPO_NOTICIA="LOCAL">
+		<TITULO>Don Felipe y Doña Letizia, noche para dos en el cine</TITULO>
+		<DESCRIPCION>DESCRIPCION</DESCRIPCION>
+		<SECCION ICONO=""/>
+		<SUBSECCION/>
+		<FECHA ANNO="2014" DIA="11" MES="10"/>
+		<HORA HORA="" MINUTO=""/>
+		<FOTO_NOTICIA/>
+	</ARTICULO>
+</PERIODICO>

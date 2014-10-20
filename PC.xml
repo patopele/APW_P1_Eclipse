@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PERIODICO PUBLIC "PERIODICO" "PeriodicoPC.dtd">
+<PERIODICO Fecha="09/27/2014" Nombre="ABC - Periodico" LOGO="/logoabc.gif" Banner="/logoabc.gif">
+	<Noticia Autor="Pablo Pellegrini" Edicion="Matinal" Fecha="11/10/2014">
+		<Titulo>Don Felipe y Doña Letizia, noche para dos en el cine</Titulo>
+		<Descripcion>Los Reyes acudieron el viernes a ver la película «Perdida» como dos espectadores más</Descripcion>
+		<Autor>Pablo Pellegrini</Autor>
+		<Cuerpo>Por todos es conocida la afición de los Reyes a acudir al cine. Don Felipe y Doña Letizia han sido retratados en numerosas ocasiones yendo a cines del centro de Madrid para ver los últimos estrenos. Lo más característico de estas salidas nocturas es que los Reyes no se esconden y acuden a la sala como dos espectadores más.
+
+Eso mismo ocurrió el pasado diez de octubre, cuando Don Felipe y Doña Letizia fueron al cine para ver la película «Perdida» en versión original. Durante la noche varios usuarios de Twitter aseguraron haberles visto paseando por las inmediaciones de Tirso de Molina, ¿hacia dónde iban? La respuesta la tenemos gracias a Gonzalo del Prado, periodista de Antena 3. Fue él quien coincidió con los Reyes en una sala de cine, les fotografió por detrás y publicó esas instantáneas en su cuenta personal de Twitter.
+
+Don Felipe y Doña Letizia, noche para dos en el cine
+TWITTER
+Los Reyes, con look informal
+Como se puede ver, Don Felipe y Doña Letizia, que esa mañana recibieron a los equipos femeninos de waterpolo y natación, salieron con un look informal. Felipe VI llevaba una camisa azul con las mangas recogidas y encima un chaleco azul oscuro. Por su parte, la Reina se puso una chaqueta roja y un moño bajo.
+
+Con esta salida, los Reyes pudieron disfrutar de un momento de ocio en su apretada agenda. Mañana Don Felipe y Doña Letizia presidirán junto a sus hijas, la Princesa de Asturias y la Infanta Sofía, el desfile con motivo del Día de la Fiesta Nacional y después ofrecerán una recepción en el Palacio Real.</Cuerpo>
+		<Seccion>Noticias; Reyes; Rey; Fiesta nacional; cines; Leticia; Felipe</Seccion></Noticia>
+	<Noticia Autor="">
+		<Titulo>Titulo</Titulo>
+		<Descripcion>Descripcion</Descripcion>
+		<Autor>Autor</Autor>
+		<Cuerpo>Cuerpo</Cuerpo>
+	</Noticia>
+</PERIODICO>
